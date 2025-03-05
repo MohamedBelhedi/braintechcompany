@@ -8,6 +8,6 @@ tags:
 ---
 **My Comany** 
 
-I startet this Journey
+I startet this Journey, my goal is to help Companies use the full potential of AI
 
 ![[Fahrschule.png]]
